@@ -13,7 +13,7 @@ Description of your awesome project.
 </div>
 
 <div>
-<img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="30" width="30" alt="JAVASCRIPT"/> JavaScript 
+<img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="25" width="25" alt="JAVASCRIPT"/> JavaScript 
 </div>
 
 <div>
