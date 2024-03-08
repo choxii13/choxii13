@@ -6,7 +6,7 @@ Description of your awesome project.
 
 👋 Hi, I'm [Your Name](https://github.com/your-username), a passionate web developer with expertise in the following technologies:
 
-- <div align="left">API DEVELOPMENT <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="20" width="20"/> </div>
+- <div align="left">API DEVELOPMENT <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="20" width="20"/> </div>
 - HTML ![HTML](https://example.com/html-gif.gif)
 - CSS ![CSS](https://example.com/css-gif.gif)
 - JavaScript ![JavaScript](https://example.com/javascript-gif.gif)
