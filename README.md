@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
-<p align="center"> I am looking for a job as a web developer. I am passionate and committed. <br/>I'm willing to learn at any cost. You can find me in my
+<p align="center"> I am looking for a job as a web developer. I am passionate, committed and willing to learn. <br/>. You can find me in my
   <a href="https://www.linkedin.com/in/joshua-teoxon-34223b217/"> LinkedIn</a></p>
 
 
