@@ -4,7 +4,6 @@ Description of your awesome project.
 
 ## About the Developer
 👋 Hi, I'm [Joshua Teoxon ](https://github.com/choxii13), a passionate web developer with expertise in the following technologies:
-
 <p><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/> HTML 
 <img align="center" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" height="30" width="30" alt="CSS"/> CSS </p>
 <p><img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="25" width="25" alt="JAVASCRIPT"/> JavaScript 
