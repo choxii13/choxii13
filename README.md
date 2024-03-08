@@ -3,7 +3,7 @@
 Description of your awesome project.
 
 ## About the Developer
-👋 Hi, I'm [Your Name](https://github.com/your-username), a passionate web developer with expertise in the following technologies:
+👋 Hi, I'm [Joshua Teoxon ](https://github.com/choxii13), a passionate web developer with expertise in the following technologies:
 <div>
 <img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/> HTML 
 </div>
