@@ -6,7 +6,7 @@ Description of your awesome project.
 
 👋 Hi, I'm [Your Name](https://github.com/your-username), a passionate web developer with expertise in the following technologies:
 
-- API DEVELOPMENT <img align="center" src="https://png.pngtree.com/png-clipart/20230930/original/pngtree-flatstyle-api-icon-for-software-integration-website-compound-interface-vector-png-image_12917230.png" height="20" width="20"/>
+- API DEVELOPMENT <img align="center" src="https://banner2.cleanpng.com/20180425/ozw/kisspng-application-programming-interface-computer-icons-w-computer-programming-5ae077c7eceaa2.5481734915246601679704.jpg" height="20" width="20"/>
 - HTML <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Flordicon.com%2Ficons%2Fwired%2Foutline%2F1330-rest-api&psig=AOvVaw0AfktZdjnzQEMXqfgwa11m&ust=1709953969328000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjB64jZ44QDFQAAAAAdAAAAABAh" height="20" width="20"/>
 - CSS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="20" width="20"/>
 - JavaScript <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="20" width="20"/>
