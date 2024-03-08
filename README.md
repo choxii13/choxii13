@@ -6,7 +6,7 @@ Description of your awesome project.
 
 👋 Hi, I'm [Your Name](https://github.com/your-username), a passionate web developer with expertise in the following technologies:
 
-- <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" height="30" width:"30"/> API Development 
+- <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" height="30" width="30"/> API Development 
 - HTML ![HTML](https://example.com/html-gif.gif)
 - CSS ![CSS](https://example.com/css-gif.gif)
 - JavaScript ![JavaScript](https://example.com/javascript-gif.gif)
