@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
-<h3 align="center"> A passionate developer from Philippines </h3>
+<p align="center"> A passionate developer from Philippines </p>
 Description of your awesome project.
 
 ## About the Developer
