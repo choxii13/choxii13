@@ -20,10 +20,10 @@ Description of your awesome project.
 <img align="center" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="30" width="30" alt="SQL"/> SQL 
 </div>
 <div>
-  <img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="25" width="25" alt="MONGODB"/> MongoDB 
+<img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="25" width="25" alt="MONGODB"/> MongoDB 
 </div>
 <div>
-  <img align="center" src="https://www.svgrepo.com/show/530439/api-interface.svg" height="30" width="30" alt="API"/> API DEVELOPMENT
+<img align="center" src="https://www.svgrepo.com/show/530439/api-interface.svg" height="30" width="30" alt="API"/> API DEVELOPMENT
 </div>
   
 
