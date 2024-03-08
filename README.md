@@ -21,7 +21,7 @@
 
 
 > [!WARNING]
-> This is my first three projects on my github (messy code/ <i> refectoring stop for the mean time </i>).
+> This is my first three projects on my github (messy code/ <i> refactoring stop for the mean time </i>).
 *  Facebook Prototype frontend
 *  Metal Detector Js
 *  React Metal Detector with simple API
