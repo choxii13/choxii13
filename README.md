@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
 <p align="center"> A passionate web developer from Philippines </p>
 
-Description of your awesome project.
+### My Projects 
 
 I have expertise in the following technologies:
 <p><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/> HTML 
