@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
 <p align="center"> I am looking for a job as a web developer. I am passionate, committed and willing to learn. <br/> You can find and email me at my social media account</p> 
 <div align="center"><a href="https://www.linkedin.com/in/joshua-teoxon-34223b217/"> LinkedIn </a>  </div>
-<div align="center"> <a href ="https://mail.google.com/mail/u/0/?to=teoxonjoshua13@gmail.com&su=RequestingDiploma&body=BODY&bcc=teoxonjoshua36@gmail.com&fs=1&tf=cm"> Gmail </a> </div>
+<div align="center"> <a href ="https://mail.google.com/mail/u/0/?to=teoxonjoshua13@gmail.com&su=Subject&body=BODY&bcc=teoxonjoshua36@gmail.com&fs=1&tf=cm"> Gmail </a> </div>
 
 ### Projects 
 > [!IMPORTANT]
