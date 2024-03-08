@@ -21,7 +21,7 @@
 
 
 > [!WARNING]
-> This is my first three projects on my github but it's not something you should see.
+> This is my first three projects on my github (messy code).
 *  Facebook Prototype frontend
 *  Metal Detector Js
 *  React Metal Detector with simple API
