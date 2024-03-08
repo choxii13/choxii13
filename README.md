@@ -7,12 +7,12 @@
 
 ### Projects 
 > [!IMPORTANT]
-> I am currently working on this project
-* Facebook Prototype </b>
+> I am currently working on this project. Same program as Facebook
+* Facebook Prototype with Backend Mongodb (refactoring on progress)
 
 > [!NOTE]
 > Some of the project is not yet done (<b>simple task</b>)
-*  Facebook reduxjs (frontend-with-functions) -react </b>
+*  Facebook reduxjs (frontend-with-functions) -react 
 *  Node js file-upload (backend)
 *  Node js with ejs (backend)
 *  Node js with mongodbejs (backend)
@@ -22,6 +22,11 @@
 *  todo-list-js (frontend)
 
 
+> [!WARNING]
+> This is my first three projects on my github but it's not something you should see.
+*  Facebook Prototype frontend
+*  Metal Detector Js
+*  React Metal Detector with simple API
 
 
 ### 🛠️ I have expertise in the following technologies:
