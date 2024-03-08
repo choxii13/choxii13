@@ -5,7 +5,7 @@
 
 I have expertise in the following technologies:
 ### Frontend Skills
-<img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/> HTML 
+<img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/>HTML 
 <img align="center" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" height="30" width="30" alt="CSS"/>CSS 
 <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="25" width="25" alt="JAVASCRIPT"/> JavaScript 
 <img align="center" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" height="30" width="30" alt="REACT"/> React.js
