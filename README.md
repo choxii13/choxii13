@@ -2,7 +2,7 @@
 <p align="center"> A passionate web developer from Philippines </p>
 
 <div align="center">
-  <img src ="https://clipart-library.com/img/1874142.gif" height="300px" width="400px">
+  <img src ="https://clipart-library.com/img/1874142.gif" height="200px" width="400px">
 </div>
 
 <h4> 🛠️ I have expertise in the following technologies:</h4>
