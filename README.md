@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm [Joshua Teoxon ](https://github.com/choxii13) </h2>
+<h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
 
 Description of your awesome project.
 
