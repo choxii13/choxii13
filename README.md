@@ -10,7 +10,7 @@ I have expertise in the following technologies:
 <p><img align="center" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" height="30" width="30" alt="REACT"/> React.js </p>
 <p><img align="center" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="30" width="30" alt="SQL"/>SQL </p>
 <p><img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="25" width="25" alt="MONGODB"/> MongoDB  </p>
-<img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="25" width="25" alt="API"/> API </p>
+<p><img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="25" width="25" alt="API"/> API </p>
 
 
 
