@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-    <progress>
+    <progress value="30">
 ###
 
 <div align="center">
