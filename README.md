@@ -3,7 +3,7 @@
 
 ### My Projects 
 
-### 🛠️ I have expertise in the following technologies:
+### 🛠️ I <h2> have expertise in the following technologies: </h2>
 ### Frontend Skills
 <p><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" width="30" alt="HTML"/> HTML</p>
 <p><img align="center" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" height="30" width="30" alt="CSS"/>CSS </p>
