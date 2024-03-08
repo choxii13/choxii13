@@ -5,8 +5,8 @@
 
 ### Projects 
 > [!IMPORTANT]
-> I am currently working on this project. Same program as Facebook
-* Facebook Prototype with Backend Mongodb (<i>refactoring on progress</i>)
+> I am currently working on this project. same program as Facebook
+* Node-js-session-and-mongodb--user-authentication- Facebook Prototype (<i>refactoring on progress</i>)
 
 > [!NOTE]
 > Some of the project is not yet done (<b>simple task</b> (<i>refactoring on progress</i> )
