@@ -5,6 +5,25 @@
 </div>
 
 
+### Projects 
+> [!IMPORTANT]
+> I am currently working on this project
+* Facebook Prototype </b>
+
+> [!NOTE]
+> Some of the project is not yet done (<b>simple task</b>)
+*  Facebook reduxjs (frontend-with-functions) -react </b>
+*  Node js file-upload (backend)
+*  Node js with ejs (backend)
+*  Node js with mongodbejs (backend)
+*  Node js with sql and ejs (backend)
+*  Node todo-list-js  (frontend-backend)
+*  Quiz App (frontend)
+*  todo-list-js (frontend)
+
+
+
+
 ### 🛠️ I have expertise in the following technologies:
 ### Frontend Skills
 > <p><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" width="40" alt="HTML"/> HTML </p> 
