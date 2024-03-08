@@ -9,8 +9,8 @@ Description of your awesome project.
 <p><img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="25" width="25" alt="JAVASCRIPT"/> JavaScript 
 <img align="center" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" height="30" width="30" alt="REACT"/> React.js </p>
 <p><img align="center" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="30" width="30" alt="SQL"/>SQL
-<img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="25" width="25" alt="MONGODB"/> MongoDB </p>
-<p><img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="25" width="25" alt="API"/> API</p>
+<img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="25" width="25" alt="MONGODB"/> MongoDB 
+ <img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="25" width="25" alt="API"/> API</p>
 
 
 
