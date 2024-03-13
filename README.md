@@ -14,7 +14,7 @@
 *  [Node js file-upload multer (backend)](https://github.com/choxii13/Node-js-file-upload--backend-)
 *  [Node js with ejs (backend)](https://github.com/choxii13/Node-js-with-ejs--backend-)
 *  [Node js with mongodb and ejs (backend)](https://github.com/choxii13/Node-js-with-mongodbejs--backend-)
-*  [Node js with sql and ejs (backend)](https://github.com/choxii13/Node-js-with-sql-and-ejs--backend-)
+*  [Node js with sql and ejs (backend/completed)](https://github.com/choxii13/Node-js-with-sql-and-ejs--backend-)
 *  [Node todo-list-js  (frontend-backend/completed)](https://github.com/choxii13/Node-todo-list-js---frontend-backend-)
 *  [Quiz App (frontend)](https://github.com/choxii13/Quiz-App--frontend-)
 *  [todo-list-js (frontend)](https://github.com/choxii13/todo-list-js)
