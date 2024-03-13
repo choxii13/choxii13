@@ -9,9 +9,9 @@
 * [Node-js-session-and-mongodb--user-authentication-](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-) <b>Facebook Prototype</b> (<i>refactoring on progress</i>)
 
 > [!NOTE]
-> Some of the project is not yet done (<b>simple task</b> (<i>refactoring on progress</i> )
-*  [Facebook reduxjs (frontend-with-functions) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
-*  [Node js with mongodb and ejs (backend)](https://github.com/choxii13/Node-js-with-mongodbejs--backend-)
+> Complete Project (<b>simple task</b> )
+*  [Facebook reduxjs (frontend-with-functions/completed) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
+*  [Node js with mongodb and ejs (backend/completed)](https://github.com/choxii13/Node-js-with-mongodbejs--backend-)
 *  [Node js file-upload multer (backend/completed)](https://github.com/choxii13/Node-js-file-upload--backend-)
 *  [Node js with sql and ejs (backend/completed)](https://github.com/choxii13/Node-js-with-sql-and-ejs--backend-)
 *  [Node todo-list-js  (frontend-backend/completed)](https://github.com/choxii13/Node-todo-list-js---frontend-backend-)
