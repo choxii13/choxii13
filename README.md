@@ -6,7 +6,7 @@
 ### Projects 
 > [!IMPORTANT]
 > I am currently working in this project. same program as Facebook
-* [Node-js-session-and-mongodb--user-authentication-](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-) <b>Facebook Prototype</b> (<i>refactoring on progress</i>)
+* [<b>Facebook Prototype</b>](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-)  (<i>refactoring on progress</i>)
 
 > [!NOTE]
 > Complete Project (<b>simple task</b> )
