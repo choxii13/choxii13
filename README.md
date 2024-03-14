@@ -11,7 +11,7 @@
 > [!NOTE]
 > Complete Project (<b>simple task</b> )
 *  [Facebook reduxjs (frontend-with-functions/completed) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
-*  [Node js with mongodb and auth (backend/completed)](https://github.com/choxii13/Node-js-user-auth)
+*  [Node js with authentication and mongodb (backend/completed)](https://github.com/choxii13/Node-js-user-auth)
 *  [Node js with mongodb and ejs (backend/completed)](https://github.com/choxii13/Node-js-with-mongodbejs--backend-)
 *  [Node js file-upload multer (backend/completed)](https://github.com/choxii13/Node-js-file-upload--backend-)
 *  [Node js with sql and ejs (backend/completed)](https://github.com/choxii13/Node-js-with-sql-and-ejs--backend-)
