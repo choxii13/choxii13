@@ -15,16 +15,18 @@
 
 
  ## Projects 
-> [!WARNING]
-> All of the files doesn't have lazy loading, some of the images might not render in the browser.
+
 
 :hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
-*  [Metal Detector](https://choxii13.github.io/Metal-Detector) 
-*  [Facebook Design](https://choxii13.github.io/facebook-design/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
+> [!WARNING]
+> This files doesn't have lazy loading, some of the images might not render in the browser.
+> * [Metal Detector](https://choxii13.github.io/Metal-Detector) (***browser only***)
+> * [Facebook Design](https://choxii13.github.io/facebook-design/)
+
 
 
 🛠️  **Backend Program**
