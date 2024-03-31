@@ -3,23 +3,21 @@
 
 
 > [!NOTE]
-> ***Social Media Account*** <br>
 > :email: [Gmail](https://mail.google.com/mail/u/0/?to=teoxonjoshua13@gmail.com&su=Subject&body=BODY&bcc=teoxonjoshua36@gmail.com&fs=1&tf=cm) <br>
 >  :mailbox: [Linkedin](https://www.linkedin.com/in/joshua-teoxon-34223b217)
 
 > [!IMPORTANT]
-> I am currently working in this project. same program as Facebook <br>
->  *  [<b>Facebook Prototype</b>](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-) (<i>refactoring in progress</i>)
+> My Main Projects <br>
+>  *  [Facebook Prototype](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-) (***refactoring in progress***)
+>  *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react) (***completed***)
+
 
 ## Projects 
-:hammer:  **Frontend Program**
+:hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
-*  [Facebook Reduxjs (frontend-with-functions) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
+*  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://github.com/choxii13/Quiz-App--frontend-)
-*  [Todo-List-Js](https://github.com/choxii13/todo-list-js)
-  
-
 
 🛠️  **Backend Program**
 *  [Node js with authentication and mongodb](https://github.com/choxii13/Node-js-user-auth)
@@ -28,9 +26,6 @@
 *  [Node js file-upload multer](https://github.com/choxii13/Node-js-file-upload--backend-)
 *  [Node todo-list-js](https://github.com/choxii13/Node-todo-list-js---frontend-backend-)
 *  [Node js with ejs](https://github.com/choxii13/Node-js-with-ejs--backend-)
-
-
-
 
 > [!WARNING]
 > This is my first three projects on my github (messy code/ <i> refactoring stop for the mean time </i>).
@@ -49,7 +44,6 @@
 <img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="35" width="35" alt="MONGODB"/> 
 <img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="35" width="35" alt="API"/> 
 <img align="center" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="35" width="35" alt="API"/>  </div>
-
 
 
 ### The Documentation of my code 
