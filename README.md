@@ -17,7 +17,7 @@
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
-*  [Quiz-App](https://github.com/choxii13/Quiz-App--frontend-)
+*  [Quiz-App](https://choxii13.github.io/Quiz-App/)
 
 🛠️  **Backend Program**
 *  [Node js with authentication and mongodb](https://github.com/choxii13/Node-js-user-auth)
