@@ -6,7 +6,7 @@
 > :mailbox: [Linkedin](https://www.linkedin.com/in/joshua-teoxon-34223b217)
 
 > [!IMPORTANT]
-> ## Main Projects 
+> ## Main Project
 > *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype) (***refactoring in progress***)
 > *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-React-redux-components-..etc-) (***completed***)
 
