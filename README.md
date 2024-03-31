@@ -6,7 +6,7 @@
 > :mailbox: [Linkedin](https://www.linkedin.com/in/joshua-teoxon-34223b217)
 
 > [!IMPORTANT]
-> I'm working on these files now, and I'll keep making programs in the future.
+> All of the these projects are important to <br> enhance my skills on being a ***web developer/programmer***.
 
 ## Main Projects 
  *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype) (***refactoring in progress***)
@@ -23,7 +23,7 @@
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
 > [!WARNING]
-> This files doesn't have lazy loading, some of the images might not render in the browser.
+> This files doesn't have lazy loading, some of the images <br> ***might not render/load*** in the browser.
 > * [Metal Detector](https://choxii13.github.io/Metal-Detector) (***browser only***)
 > * [Facebook Design](https://choxii13.github.io/facebook-design/)
 
