@@ -8,26 +8,26 @@
 
 > [!IMPORTANT]
 > My Main Projects <br>
->  *  [Facebook Prototype](https://github.com/choxii13/Node-js-session-and-mongodb--user-authentication-) (***refactoring in progress***)
->  *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react) (***completed***)
+>  *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype) (***refactoring in progress***)
+>  *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-React-redux-components-..etc-) (***completed***)
 
 
 ## Projects 
 :hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
-*  [Metal Detector Js](https://choxii13.github.io/METAL-NONMETAL--DETECTOR/)
-*  [Facebook Design](https://choxii13.github.io/MAIN-FACEBOOK-FIRST-PROJECT-PRACTICE/)
+*  [Metal Detector Js](https://choxii13.github.io/Metal-Detector-Js/)
+*  [Facebook Design](https://choxii13.github.io/facebook-design/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
 
 
 🛠️  **Backend Program**
 *  [Node js with authentication and mongodb](https://github.com/choxii13/Node-js-user-auth)
-*  [Node js with mongodb and ejs](https://github.com/choxii13/Node-js-with-mongodbejs--backend-)
-*  [Node js with sql and ejs](https://github.com/choxii13/Node-js-with-sql-and-ejs--backend-)
-*  [Node js file-upload multer](https://github.com/choxii13/Node-js-file-upload--backend-)
-*  [Node todo-list-js](https://github.com/choxii13/Node-todo-list-js---frontend-backend-)
+*  [Node js with mongodb and ejs](https://github.com/choxii13/Node-js-with-mongodbejs)
+*  [Node js with sql and ejs](https://github.com/choxii13/Node-js-with-sql-and-ejs-)
+*  [Node js file-upload multer](https://github.com/choxii13/Node-js-file-upload-multer)
+*  [Node JSON todo-list-js](https://github.com/choxii13/Node-JSON-todo-list-js)
 *  [Node js with ejs](https://github.com/choxii13/Node-js-with-ejs--backend-)
 
 > [!WARNING]
