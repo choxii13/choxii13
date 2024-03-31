@@ -16,8 +16,10 @@
 :hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
+*  [Metal Detector Js](https://choxii13.github.io/METAL-NONMETAL--DETECTOR/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
+
 
 🛠️  **Backend Program**
 *  [Node js with authentication and mongodb](https://github.com/choxii13/Node-js-user-auth)
