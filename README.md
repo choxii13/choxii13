@@ -17,6 +17,7 @@
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [Metal Detector Js](https://choxii13.github.io/METAL-NONMETAL--DETECTOR/)
+*  [Facebook Design](https://choxii13.github.io/MAIN-FACEBOOK-FIRST-PROJECT-PRACTICE/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
 
@@ -31,7 +32,7 @@
 
 > [!WARNING]
 > This is my first three projects on my github (messy code/ <i> refactoring stop for the mean time </i>).
-*  Facebook Prototype frontend
+*  Facebook Design
 *  Metal Detector Js
 *  React Metal Detector with simple API
   
