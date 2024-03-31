@@ -17,6 +17,7 @@
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [Facebook Reduxjs (frontend-with-functions) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
 *  [Quiz-App](https://github.com/choxii13/Quiz-App--frontend-)
+*  [Todo-List-Js](https://github.com/choxii13/todo-list-js)
   
 
 
@@ -27,7 +28,7 @@
 *  [Node js file-upload multer](https://github.com/choxii13/Node-js-file-upload--backend-)
 *  [Node todo-list-js](https://github.com/choxii13/Node-todo-list-js---frontend-backend-)
 *  [Node js with ejs](https://github.com/choxii13/Node-js-with-ejs--backend-)
-*  [JSON-Todo-List-Js](https://github.com/choxii13/todo-list-js)
+
 
 
 
