@@ -14,7 +14,7 @@
 ## Projects 
 :hammer:  **Frontend Program**
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
-*  [Restaurant-landing-page](https://github.com/choxii13/landing-page)
+*  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [Facebook Reduxjs (frontend-with-functions) -react](https://github.com/choxii13/Facebook-reduxjs--frontend-with-functions---react)
 *  [Quiz-App](https://github.com/choxii13/Quiz-App--frontend-)
   
