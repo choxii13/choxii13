@@ -14,12 +14,11 @@
 :hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
-* [Metal Detector](https://choxii13.github.io/Metal-Detector)
-* [Facebook Design](https://choxii13.github.io/facebook-design/)
+*  [How-Can-We-Help](https://choxii13.github.io/How-Can-We-Help-You/)
+*  [Metal Detector](https://choxii13.github.io/Metal-Detector)
+*  [Facebook Design](https://choxii13.github.io/facebook-design/)
 *  [Todo-List-Js](https://choxii13.github.io/todo-list-js/)
 *  [Quiz-App](https://choxii13.github.io/Quiz-App/)
-
-
 
 
 🛠️  **Backend Program**
@@ -43,7 +42,8 @@
 <img align="center" src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" width="40" alt="CSS"/> 
 <img align="center" src="https://www.svgrepo.com/show/349419/javascript.svg" height="35" width="35" alt="JAVASCRIPT"/> 
 <img align="center" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" height="40" width="40" alt="REACT"/>  </p>
-<b>Backend Skills</b>
+
+**Backend Skills**
 <div><img align="center" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="40" width="40" alt="SQL"/> 
 <img align="center" src="https://www.svgrepo.com/show/439231/mongodb.svg" height="35" width="35" alt="MONGODB"/> 
 <img align="center" src="https://www.svgrepo.com/show/261808/api.svg" height="35" width="35" alt="API"/> 
