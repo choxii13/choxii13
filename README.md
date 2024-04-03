@@ -13,8 +13,8 @@
  ## Projects 
 :hammer:  **Frontend Program** (***deployed on github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
-*  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [Bergify-Page](https://choxii13.github.io/Bergify-Page/)   $~~~~~~~~~~~~~~$  ***[ my reference](https://demo.bergify.com/)*** 
+*  [Restaurant-landing-page](https://choxii13.github.io/landing-page/)
 *  [How-Can-We-Help](https://choxii13.github.io/How-Can-We-Help-You/)
 *  [Metal Detector](https://choxii13.github.io/Metal-Detector)
 *  [Facebook Design](https://choxii13.github.io/facebook-design/)
