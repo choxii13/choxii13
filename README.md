@@ -7,8 +7,8 @@
 
 > [!IMPORTANT]
 > ## Main Project
-> *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype) (***refactoring in progress***)
-> *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-React-redux-components-..etc-) (***completed***)
+> *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype)
+> *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-React-redux-components-..etc-)
 
  ## Projects 
 :hammer:  **Frontend Program** (***deployed on github***)
