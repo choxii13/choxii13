@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Joshua Teoxon </h2>
-<p align="center"> I am looking for a job as a web developer. I am passionate, committed and willing to learn. <br> You can email me in my social media accounts </p> 
+<p align="center"> I am looking for a job as a web developer. I am passionate, committed and willing to learn. <br> You can email me on my social media accounts </p> 
 
 > [!NOTE]
 > :email: [Gmail](https://mail.google.com/mail/u/0/?to=teoxonjoshua13@gmail.com&su=Subject&body=BODY&bcc=teoxonjoshua36@gmail.com&fs=1&tf=cm) <br>
