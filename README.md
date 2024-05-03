@@ -7,8 +7,9 @@
 
 > [!IMPORTANT]
 > ## Main Project
+> *  [E-commerce website](https://github.com/choxii13/Online-Shop-System)
 > *  [Facebook Prototype](https://github.com/choxii13/Facebook-Prototype)
-> *  [Facebook -React (redux, components ..etc)](https://github.com/choxii13/Facebook-React-redux-components-..etc-)
+> *  [Facebook -React ](https://github.com/choxii13/Facebook-React-redux-components-..etc-)
 
  ## Projects 
 :hammer:  **Frontend Program** (***deployed on github***)
