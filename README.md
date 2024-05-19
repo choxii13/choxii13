@@ -12,7 +12,7 @@
 > *  [Facebook -React ](https://github.com/choxii13/Facebook-React-redux-components-..etc-)
 
  ## Projects 
-:hammer:  **Frontend Program** (***deployed on github***)
+:hammer:  **Frontend Program** (***deployed in github***)
 *  [My-Portfolio-Joshua-Teoxon](https://choxii13.github.io/My-Portfolio-Joshua-Teoxon/)
 *  [Old-Portfolio](https://choxii13.github.io/Old-portfolio/)
 *  [Bergify-Page](https://choxii13.github.io/Bergify-Page/)   $~~~~~~~~~~~~~~$  ***[ my reference](https://demo.bergify.com/)*** 
@@ -32,11 +32,6 @@
 *  [Node JSON todo-list-js](https://github.com/choxii13/Node-JSON-todo-list-js)
 *  [Node js with ejs](https://github.com/choxii13/Node-js-with-ejs--backend-)
 
-> [!CAUTION]
-> This is my first three projects on my github (messy code/ <i> refactoring stop for the mean time </i>).
->*  Facebook Design
->*  Metal Detector
->*  React Metal Detector with simple API
   
   ## Skills
 **Frontend Skills**
